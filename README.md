@@ -4,9 +4,9 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 ## Módulo 1
 
-- [ ] 1-01: _Começa aqui seu curso de PHP Moderno_
-- [ ] 1-02: _Esse curso de PHP serve pra mim?_
-- [ ] 1-03: _Lista TOP 6 livros de PHP_
+- [X] 1-01: _Começa aqui seu curso de PHP Moderno_
+- [X] 1-02: _Esse curso de PHP serve pra mim?_
+- [X] 1-03: _Lista TOP 6 livros de PHP_
 - [ ] 1-04: _A evolução do PHP_
 - [ ] 1-05: _Por que um elefante é o mascote do PHP?_
 - [ ] 1-06: _As versões do PHP e seus recursos_
