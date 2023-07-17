@@ -7,11 +7,11 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [X] 1-01: _Começa aqui seu curso de PHP Moderno_
 - [X] 1-02: _Esse curso de PHP serve pra mim?_
 - [X] 1-03: _Lista TOP 6 livros de PHP_
-- [ ] 1-04: _A evolução do PHP_
-- [ ] 1-05: _Por que um elefante é o mascote do PHP?_
-- [ ] 1-06: _As versões do PHP e seus recursos_
-- [ ] 1-07: _O PHP vai morrer? Vale a pena estudar PHP?_
-- [ ] 1-08: _Como funciona o PHP?_
+- [X] 1-04: _A evolução do PHP_
+- [X] 1-05: _Por que um elefante é o mascote do PHP?_
+- [X] 1-06: _As versões do PHP e seus recursos_
+- [X] 1-07: _O PHP vai morrer? Vale a pena estudar PHP?_
+- [X] 1-08: _Como funciona o PHP?_
 - [ ] 1-09: _É possível criar qualquer coisa com PHP?_
 - [ ] 1-10: _Como transformar seu computador em servidor PHP_
 - [ ] 1-11: _É possível treinar PHP no smartphone_
