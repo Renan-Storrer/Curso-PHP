@@ -12,14 +12,14 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [X] 1-06: _As versões do PHP e seus recursos_
 - [X] 1-07: _O PHP vai morrer? Vale a pena estudar PHP?_
 - [X] 1-08: _Como funciona o PHP?_
-- [ ] 1-09: _É possível criar qualquer coisa com PHP?_
-- [ ] 1-10: _Como transformar seu computador em servidor PHP_
-- [ ] 1-11: _É possível treinar PHP no smartphone_
-- [ ] 1-12: _Seu servidor PHP no Windows_
-- [ ] 1-13: _Seu servidor PHP no Linux_
-- [ ] 1-14: _Seu servidor PHP no MacOS_
-- [ ] 1-15: _Configurações importantes para VS Code_
-- [ ] 1-16: _Melhores extensões para VS Code_
+- [X] 1-09: _É possível criar qualquer coisa com PHP?_
+- [X] 1-10: _Como transformar seu computador em servidor PHP_
+- [X] 1-11: _É possível treinar PHP no smartphone_
+- [X] 1-12: _Seu servidor PHP no Windows_
+- [X] 1-13: _Seu servidor PHP no Linux_
+- [X] 1-14: _Seu servidor PHP no MacOS_
+- [X] 1-15: _Configurações importantes para VS Code_
+- [X] 1-16: _Melhores extensões para VS Code_
 - [ ] 1-17: _Primeiro programa em PHP_
 - [ ] 1-18: _O PHP por dentro_
 - [ ] 1-19: _Como configurar o php.ini_
