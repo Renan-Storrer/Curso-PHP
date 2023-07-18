@@ -11,6 +11,10 @@
       echo "Olá, Mundo! \u{1F30E}";
     ?>
   </h1>
+    <?php  
+    $name = "Renan Storrer";
+    echo "Meu nome é $name";
+    ?>
   <p>Primeira lição de PHP</p>
 </body>
 </html>
