@@ -20,7 +20,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [X] 1-14: _Seu servidor PHP no MacOS_
 - [X] 1-15: _Configurações importantes para VS Code_
 - [X] 1-16: _Melhores extensões para VS Code_
-- [ ] 1-17: _Primeiro programa em PHP_
+- [X] 1-17: _Primeiro programa em PHP_
 - [ ] 1-18: _O PHP por dentro_
 - [ ] 1-19: _Como configurar o php.ini_
 - [ ] 1-20: _Variáveis e constantes em PHP_
