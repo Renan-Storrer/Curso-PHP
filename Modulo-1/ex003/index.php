@@ -18,8 +18,9 @@
     // $number = 0b1011;
     // echo "O valor da variável é $number";
 
+    // var_dump mostra o valor da variante junto com seu tipo primitivo
     $var = 300;
-     
+    var_dump($var)
   ?>
 </body>
 </html>
