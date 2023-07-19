@@ -26,8 +26,17 @@
     // $solteiro = true;
     // $casado = false;
 
-    $vet = [6, 2.5, "Maria", 3, false];
-    var_dump($vet);
+    // $vet = [6, 2.5, "Maria", 3, false];
+    // var_dump($vet);
+
+    // $nome = "Renan";
+
+    class Pessoa{
+      private string $nome
+    };
+
+    $p = new Pessoa;
+    var_dump($p)
   ?>
 </body>
 </html>
