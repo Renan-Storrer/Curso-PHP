@@ -23,8 +23,11 @@
     // var_dump($var);
     // echo "O valor é $var";
 
-    $solteiro = true;
-    $casado = false;
+    // $solteiro = true;
+    // $casado = false;
+
+    $vet = [6, 2.5, "Maria", 3, false];
+    var_dump($vet);
   ?>
 </body>
 </html>
