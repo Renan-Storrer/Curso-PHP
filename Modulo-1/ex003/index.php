@@ -8,8 +8,18 @@
 <body>
   <h1>Teste de tipos primitivos</h1>
   <?php 
-    $number = 300;
-    echo "O valor da variável é $number";
+    // 0x = exadecimal
+    // 0b = binário
+    // 0 = Ocatal
+
+    // $number = 300;
+    // echo "O valor da variável é $number";
+
+    // $number = 0b1011;
+    // echo "O valor da variável é $number";
+
+    $var = 300;
+     
   ?>
 </body>
 </html>
