@@ -11,7 +11,11 @@
   </header>
   <section>
     <form action="cad.php" method="get">
-      
+      <label for="nome">Nome</label>
+      <input type="text" name="nome" id="idnome">
+      <label for="sobrenome">sobrenome</label>
+      <input type="text" name="sobrenome" id="idsobrenome">
+      <input type="submit" value="ENVIAR">
     </form>
   </section>
 </body>
