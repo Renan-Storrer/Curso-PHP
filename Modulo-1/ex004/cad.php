@@ -11,7 +11,10 @@
     <h1>Resultado do processamento</h1>
   </header>
   <main>
-    <?php 
+    <?php
+      $nome = $_GET["nome"];
+      $sobrenome = $_GET["sobrenome"];
+      echo "<p>É um prazer te conhecer, $nome $sobrenome";
     ?>
   </main>
 </body>
