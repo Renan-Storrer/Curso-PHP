@@ -31,12 +31,12 @@
 
     // $nome = "Renan";
 
-    class Pessoa{
-      private string $nome
-    };
+    // class Pessoa{
+    //   private string $nome
+    // };
 
-    $p = new Pessoa;
-    var_dump($p)
+    // $p = new Pessoa;
+    // var_dump($p)
   ?>
 </body>
 </html>
