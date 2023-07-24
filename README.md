@@ -26,7 +26,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [X] 1-20: _Variáveis e constantes em PHP_
 - [X] 1-21: _Tipos primitivos do PHP_
 - [X] 1-22: _Manipulação de strings com PHP_
-- [ ] 1-23: _Obtendo dados de formulários com PHP (parte 1)_
+- [X] 1-23: _Obtendo dados de formulários com PHP (parte 1)_
 - [ ] 1-24: _Obtendo dados de formulários com PHP (parte 2)_
 - [ ] 1-25: _Expressões Aritméticas com PHP_
 - [ ] 1-26: _Funções Aritméticas do PHP_
