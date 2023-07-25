@@ -7,19 +7,19 @@
   <title>Resultado</title>
 </head>
 <body>
-  <header>
-    <h1>Resultado Final</h1>
-  </header>
   <main>
-    <?php 
+    <h1>Resultado Final</h1>
+    <p>
+      <?php 
       $numero = $_GET["numero"] ?? 0;
       $sucessor = $numero + 1;
       $antecessor = $numero - 1;
-      echo "<p>O número escolhido foi $numero</p>";
-      echo "<p>O seu antecessor é $antecessor</p>";
-      echo "<p>O seu sucessor é $sucessor</p>"
-    ?>
-    <p><a href="javascript:history.go(-1)">Voltar</a></p>
-</main>
+      echo "O número escolhido foi <strong>$numero</strong>";
+      echo "<br>O seu <em>antecessor</em> é $antecessor";
+      echo "<br>O seu <em>sucessor</em> é $sucessor"
+      ?>
+    </p>
+    <button>&#x2B05; Voltar</button>
+  </main>
 </body>
 </html>
