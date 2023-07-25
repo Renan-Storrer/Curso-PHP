@@ -29,7 +29,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [X] 1-23: _Obtendo dados de formulários com PHP (parte 1)_
 - [X] 1-24: _Obtendo dados de formulários com PHP (parte 2)_
 - [X] 1-25: _Expressões Aritméticas com PHP_
-- [ ] 1-26: _Funções Aritméticas do PHP_
+- [X] 1-26: _Funções Aritméticas do PHP_
 - [ ] 1-27: _Operadores Aritméticos do PHP_
 - [ ] 1-28: _Cinco desafios PHP para iniciantes_
 - [ ] 1-29: _Desafio 001: Antecessor e Sucessor_
