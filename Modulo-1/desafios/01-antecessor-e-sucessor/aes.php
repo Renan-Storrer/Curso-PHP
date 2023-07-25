@@ -19,7 +19,7 @@
       echo "<br>O seu <em>sucessor</em> é $sucessor"
       ?>
     </p>
-    <button>&#x2B05; Voltar</button>
+    <button onclick="javascript:window.location.href='index.html'">&#x2B05; Voltar</button>
   </main>
 </body>
 </html>
