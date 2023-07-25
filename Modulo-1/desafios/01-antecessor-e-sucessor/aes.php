@@ -14,9 +14,9 @@
       $numero = $_GET["numero"] ?? 0;
       $sucessor = $numero + 1;
       $antecessor = $numero - 1;
-      echo "O número escolhido foi <strong>$numero</strong>";
-      echo "<br>O seu <em>antecessor</em> é $antecessor";
-      echo "<br>O seu <em>sucessor</em> é $sucessor"
+      echo "O número escolhido foi <strong>$numero</strong>.";
+      echo "<br>O seu <em>antecessor</em> é $antecessor.";
+      echo "<br>O seu <em>sucessor</em> é $sucessor."
       ?>
     </p>
     <button onclick="javascript:window.location.href='index.html'">&#x2B05; Voltar</button>
