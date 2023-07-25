@@ -4,6 +4,8 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 ## Módulo 1
 
+### Aulas e exercícios de fixação:
+
 - [X] 1-01: _Começa aqui seu curso de PHP Moderno_
 - [X] 1-02: _Esse curso de PHP serve pra mim?_
 - [X] 1-03: _Lista TOP 6 livros de PHP_
@@ -32,19 +34,22 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [X] 1-26: _Funções Aritméticas do PHP_
 - [X] 1-27: _Operadores Aritméticos do PHP_
 - [X] 1-28: _Cinco desafios PHP para iniciantes_
-- [ ] 1-29: _Desafio 001: Antecessor e Sucessor_
-- [ ] 1-30: _Desafio 002: Sorteador de números_
-- [ ] 1-31: _Desafio 003: Conversor de Moedas básico V1_
-- [ ] 1-32: _Desafio 004: Conversor de Moedas avançado_
-- [ ] 1-33: _Desafio 005: Analisando um número Real_
-- [ ] 1-34: _Superglobais no PHP_
-- [ ] 1-35: _Formulários retroalimentados_
-- [ ] 1-36: _Oito desafios PHP para iniciantes_
-- [ ] 1-37: _Desafio 006: A anatomia de uma divisão_
-- [ ] 1-38: _Desafio 007: Salário Mínimo com PHP_
-- [ ] 1-39: _Desafio 008: Exercício das Raízes_
-- [ ] 1-40: _Desafio 009: Entendendo as Médias_
-- [ ] 1-41: _Desafio 010: Máquina do Tempo_
-- [ ] 1-42: _Desafio 011: Reajustar Preços_
-- [ ] 1-43: _Desafio 012: Calculadora de Tempo_
-- [ ] 1-44: _Desafio 013: Simulando um Caixa Eletrônico_
+- [ ] 1-29: _Superglobais no PHP_
+- [ ] 1-30: _Formulários retroalimentados_
+- [ ] 1-31: _Oito desafios PHP para iniciantes_
+
+### Desafios:
+
+- [ ] 1-01: _Desafio 001: Antecessor e Sucessor_
+- [ ] 1-02: _Desafio 002: Sorteador de números_
+- [ ] 1-03: _Desafio 003: Conversor de Moedas básico V1_
+- [ ] 1-04: _Desafio 004: Conversor de Moedas avançado_
+- [ ] 1-05: _Desafio 005: Analisando um número Real_
+- [ ] 1-06: _Desafio 006: A anatomia de uma divisão_
+- [ ] 1-07: _Desafio 007: Salário Mínimo com PHP_
+- [ ] 1-08: _Desafio 008: Exercício das Raízes_
+- [ ] 1-09: _Desafio 009: Entendendo as Médias_
+- [ ] 1-10: _Desafio 010: Máquina do Tempo_
+- [ ] 1-11: _Desafio 011: Reajustar Preços_
+- [ ] 1-12: _Desafio 012: Calculadora de Tempo_
+- [ ] 1-13: _Desafio 013: Simulando um Caixa Eletrônico_
