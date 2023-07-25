@@ -12,7 +12,7 @@
   </header>
   <main>
     <?php 
-      $numero = $_GET["numero"] ?? "número não escolhido!";
+      $numero = $_GET["numero"] ?? 0;
       $sucessor = $numero + 1;
       $antecessor = $numero - 1;
       echo "<p>O número escolhido foi $numero</p>";
