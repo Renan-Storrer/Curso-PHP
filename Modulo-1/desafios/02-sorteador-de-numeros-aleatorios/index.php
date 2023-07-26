@@ -4,18 +4,19 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="style.css">
-  <title>Npumeros Aleatórios</title>
+  <title>Números Aleatórios</title>
 </head>
 <body>
   <main>
     <h1>Trabalhando com números aleatórios</h1>
     <p>Gerando um número aleatório entre 0 e 100..</p>
-    <p>
+    <p>O valor gerado foi 
       <?php 
-
-      ?>
+        echo rand(1,100)
+        ?>
     </p>
-    <button>Gerar outro número</button>
+    <button onclick="refresh">Gerar outro número</button>
   </main>
 </body>
+
 </html>
