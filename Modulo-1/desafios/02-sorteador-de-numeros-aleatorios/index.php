@@ -15,8 +15,9 @@
         echo rand(1,100)
         ?>
     </p>
-    <button onclick="refresh">Gerar outro número</button>
+    <button onclick=refresh()>Gerar outro número</button>
   </main>
+  <script src="script.js"></script>
 </body>
 
 </html>
