@@ -42,7 +42,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 - [X] 1-01: _Desafio 001: Antecessor e Sucessor_
 - [X] 1-02: _Desafio 002: Sorteador de números_
-- [ ] 1-03: _Desafio 003: Conversor de Moedas básico V1_
+- [X] 1-03: _Desafio 003: Conversor de Moedas básico V1_
 - [ ] 1-04: _Desafio 004: Conversor de Moedas avançado_
 - [ ] 1-05: _Desafio 005: Analisando um número Real_
 - [ ] 1-06: _Desafio 006: A anatomia de uma divisão_
